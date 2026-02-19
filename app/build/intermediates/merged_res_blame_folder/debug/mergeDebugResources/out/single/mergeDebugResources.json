@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.appairsoft.app-debug-68:/raw_bomba_nuclear.mp3.flat",
+        "source": "com.appairsoft.app-main-70:/raw/bomba_nuclear.mp3"
+    },
+    {
+        "merged": "com.appairsoft.app-debug-68:/drawable_area96_bg.jpg.flat",
+        "source": "com.appairsoft.app-main-70:/drawable/area96_bg.jpg"
+    },
+    {
+        "merged": "com.appairsoft.app-debug-68:/drawable_area96_logo.jpg.flat",
+        "source": "com.appairsoft.app-main-70:/drawable/area96_logo.jpg"
+    },
+    {
+        "merged": "com.appairsoft.app-debug-68:/xml_backup_rules.xml.flat",
+        "source": "com.appairsoft.app-main-70:/xml/backup_rules.xml"
+    }
+]

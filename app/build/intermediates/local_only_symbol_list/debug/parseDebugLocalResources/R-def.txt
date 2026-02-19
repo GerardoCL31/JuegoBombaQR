@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable area96_bg
+drawable area96_logo
+raw bomba_nuclear
+style Theme.AppAirsoft
+xml backup_rules
