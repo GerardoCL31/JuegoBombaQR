@@ -1,18 +1,22 @@
 [
     {
-        "merged": "com.appairsoft.app-debug-68:/raw_bomba_nuclear.mp3.flat",
-        "source": "com.appairsoft.app-main-70:/raw/bomba_nuclear.mp3"
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.2.1\\com.appairsoft.app-debug-68:\\drawable_area96_bg.jpg.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.2.1\\com.appairsoft.app-main-70:\\drawable\\area96_bg.jpg"
     },
     {
-        "merged": "com.appairsoft.app-debug-68:/drawable_area96_bg.jpg.flat",
-        "source": "com.appairsoft.app-main-70:/drawable/area96_bg.jpg"
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.2.1\\com.appairsoft.app-debug-68:\\drawable_area96_logo.jpg.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.2.1\\com.appairsoft.app-main-70:\\drawable\\area96_logo.jpg"
     },
     {
-        "merged": "com.appairsoft.app-debug-68:/drawable_area96_logo.jpg.flat",
-        "source": "com.appairsoft.app-main-70:/drawable/area96_logo.jpg"
+        "merged": "com.appairsoft.app-debug-68:/raw_correcto_efecto.mp3.flat",
+        "source": "com.appairsoft.app-main-70:/raw/correcto_efecto.mp3"
     },
     {
-        "merged": "com.appairsoft.app-debug-68:/xml_backup_rules.xml.flat",
-        "source": "com.appairsoft.app-main-70:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.2.1\\com.appairsoft.app-debug-68:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.2.1\\com.appairsoft.app-main-70:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.2.1\\com.appairsoft.app-debug-68:\\raw_bomba_nuclear.mp3.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.2.1\\com.appairsoft.app-main-70:\\raw\\bomba_nuclear.mp3"
     }
 ]

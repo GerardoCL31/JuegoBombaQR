@@ -4,7 +4,7 @@
             "outputFile": "com.appairsoft.app-mergeDebugResources-66:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\DAW2\\.gradle\\caches\\9.2.1\\transforms\\166d150cd88ada1d0bb19ad818650dbf\\workspace\\transformed\\material-1.13.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\9.2.1\\transforms\\166d150cd88ada1d0bb19ad818650dbf\\workspace\\transformed\\material-1.13.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\DAW2\\.gradle\\caches\\9.2.1\\transforms\\e3d94731fe7facdfc45d30535e009917\\workspace\\transformed\\appcompat-1.7.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\9.2.1\\transforms\\e3d94731fe7facdfc45d30535e009917\\workspace\\transformed\\appcompat-1.7.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

@@ -5,5 +5,6 @@ color white
 drawable area96_bg
 drawable area96_logo
 raw bomba_nuclear
+raw correcto_efecto
 style Theme.AppAirsoft
 xml backup_rules
